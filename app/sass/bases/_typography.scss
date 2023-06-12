@@ -1,0 +1,11 @@
+.text-accent {
+    color: var(--primary-green);
+}
+a, a:link, a:visited {
+    // text-decoration: none;
+    // color: var(--primary-gray)
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
