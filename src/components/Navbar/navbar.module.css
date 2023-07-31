@@ -1,0 +1,6 @@
+
+.hambugerBar {
+    transition: all ease-in-out .5s linear;
+    background: radial-gradient(rgba(39, 174, 96, 1), rgba(32, 234, 117, 1));
+    @apply bg-lime-500 block h-[4px] w-[25px];
+}
